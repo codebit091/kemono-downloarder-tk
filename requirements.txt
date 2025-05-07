@@ -1,0 +1,12 @@
+certifi==2025.4.26
+charset-normalizer==3.4.1
+colorama==0.4.6
+customtkinter==5.2.2
+darkdetect==0.8.0
+idna==3.10
+packaging==25.0
+requests==2.32.3
+soupsieve==2.7
+tqdm==4.67.1
+typing_extensions==4.13.2
+urllib3==2.4.0

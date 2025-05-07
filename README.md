@@ -1,4 +1,4 @@
-# kemono_downloader
+# kemono-downloarder-tk
 
 指定アーティストの全ポストのファイルを自動ダウンロードできます。
 
@@ -9,4 +9,3 @@ python でつくりました。
 すでに存在するファイルは上書きされずスキップされます。
 
 main.py から実行してください。
-"# kemono-downloarder-tk" 

@@ -1,0 +1,5 @@
+.kemono/
+.mypy_cache/
+.vscode/
+.download/
+**/__pycache__/**
